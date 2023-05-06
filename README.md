@@ -1,6 +1,6 @@
-# mobile_1
+# TASKS
 
-A new Flutter project.
+A simple Flutter Project.
 
 ## Getting Started
 
